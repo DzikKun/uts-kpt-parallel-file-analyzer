@@ -1,0 +1,9 @@
+﻿data/
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+bench_raw.csv
+monitor_run4.csv
+run_full.txt
+run_limit100.txt
